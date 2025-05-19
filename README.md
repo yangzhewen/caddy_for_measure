@@ -17,7 +17,7 @@ Can serve on multiple address and ports.
 
 Use an example player to test:
 
-[text](https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
+[https://reference.dashif.org/dash.js/nightly/samples/](https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
 
 Then put your address to the video mpd file in, example for the current setting:
 
